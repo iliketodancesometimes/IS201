@@ -1,0 +1,49 @@
+.diybg {
+    background-image: url(https://wallpaperaccess.com/full/3803838.jpg);
+    background-position: top right;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.font{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.menu {
+    top: 115px;
+    left: 115px;
+    right: 115px;
+    width: 100px;
+    bottom: 39px;
+    padding: 10px;
+    border: solid 1px black;
+}
+
+.font2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    color: white;
+    text-align: right;
+}
+
+.font3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.right {
+    text-align: right;
+}
+
+.center{
+    text-align: center;
+}
+
+.notitalic {
+    font-style: normal;
+}
